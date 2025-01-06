@@ -18,7 +18,9 @@ comment
 [Add title here](#add-title-here)   
 
 
-
+### Installing Power BI Desktop
+- [from ](https://www.microsoft.com/en-gb/download/details.aspx?id=58494)
+- 
 
 
 
