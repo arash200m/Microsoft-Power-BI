@@ -1,4 +1,4 @@
-# Title
+# Power BI Full Course
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fnA-_iDV_LY/0.jpg)](https://www.youtube.com/watch?v=fnA-_iDV_LY)
 
