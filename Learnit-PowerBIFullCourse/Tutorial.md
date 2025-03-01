@@ -16,3 +16,10 @@ D:\Learning\Power BI\Learning\Power BI Full Course
 [Add title here](#add-title-here)   
 [Add title here](#add-title-here)   
 [Add title here](#add-title-here)   
+
+
+<hr>
+
+get online data: List of U.S. states and territories by income 
+
+[![More](https://img.shields.io/badge/more-psycopg2-green.svg)](https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_income)
