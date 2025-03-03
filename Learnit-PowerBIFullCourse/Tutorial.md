@@ -24,7 +24,9 @@ get online data: List of U.S. states and territories by income [![more](https://
 
 #### Pivat Table
 
-A pivot table summarizes and reorganizes selected columns and rows of data.
+A pivot table summarizes and reorganizes selected columns and rows of data.   
+Process and highlight large amounts of data, that would be time consuming to calculate by hand.   
+A few data processing functions a pivot table can perform include identifying sums, averages, ranges, and outliers.
 
 
 
