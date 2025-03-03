@@ -10,7 +10,7 @@ D:\Learning\Power BI\Learning\Power BI Full Course
 
 ### Table of Content   
 
-[Add title here](#add-title-here)   
+[Pivat Table](#Pivat-Table)   
 [Add title here](#add-title-here)   
 [Add title here](#add-title-here)   
 [Add title here](#add-title-here)   
@@ -22,4 +22,6 @@ D:\Learning\Power BI\Learning\Power BI Full Course
 
 get online data: List of U.S. states and territories by income [![more](https://img.shields.io/badge/more-goToList-green.svg)](https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_income)
 
+#### Pivat Table
 
+A pivot table summarizes and reorganizes selected columns and rows of data.
