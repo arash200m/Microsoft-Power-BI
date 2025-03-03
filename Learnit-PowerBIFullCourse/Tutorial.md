@@ -25,3 +25,32 @@ get online data: List of U.S. states and territories by income [![more](https://
 #### Pivat Table
 
 A pivot table summarizes and reorganizes selected columns and rows of data.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
