@@ -29,7 +29,7 @@ Process and highlight large amounts of data, that would be time consuming to cal
 A few data processing functions a pivot table can perform include identifying sums, averages, ranges, and outliers.
 
 
-Excel Pivot Table EXPLAINED in 10 Minutes (Productivity tips included!)
+- Excel Pivot Table EXPLAINED in 10 Minutes (Productivity tips included!)
 [![more](https://img.shields.io/badge/more-youtube-green.svg)](https://www.youtube.com/watch?v=UsdedFoTA68&t=115s)
 
 
