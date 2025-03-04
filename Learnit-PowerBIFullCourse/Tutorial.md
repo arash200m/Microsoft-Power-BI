@@ -31,6 +31,7 @@ A few data processing functions a pivot table can perform include identifying su
 > [!NOTE]  
 >Excel Pivot Table EXPLAINED in 10 Minutes (Productivity tips included!)
 [![more](https://img.shields.io/badge/more-youtube-green.svg)](https://www.youtube.com/watch?v=UsdedFoTA68&t=115s)
+> How to Create Pivot Table in Excel [![more](https://img.shields.io/badge/more-youtube-green.svg)](https://www.youtube.com/watch?v=PdJzy956wo4) 
 
 
 
