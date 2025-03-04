@@ -20,7 +20,7 @@ D:\Learning\Power BI\Learning\Power BI Full Course
 
 <hr>
 
-get online data: List of U.S. states and territories by income [![more](https://img.shields.io/badge/more-goToList-green.svg)](https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_income)
+get online data: List of U.S. states and territories by income 
 
 #### Pivat Table
 
@@ -29,7 +29,8 @@ Process and highlight large amounts of data, that would be time consuming to cal
 A few data processing functions a pivot table can perform include identifying sums, averages, ranges, and outliers.
 
 
-
+Excel Pivot Table EXPLAINED in 10 Minutes (Productivity tips included!)
+[![more](https://img.shields.io/badge/more-youtube-green.svg)](https://www.youtube.com/watch?v=UsdedFoTA68&t=115s)
 
 
 
