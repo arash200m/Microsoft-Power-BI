@@ -40,7 +40,9 @@ A few data processing functions a pivot table can perform include identifying su
 
 
 
-
+| ![Splash Screen](images/splashScreen.png) |
+|:--:|
+| **Figure 1: Splash Screen** |
 
 
 
