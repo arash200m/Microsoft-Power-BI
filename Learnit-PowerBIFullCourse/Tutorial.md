@@ -36,7 +36,7 @@ A few data processing functions a pivot table can perform include identifying su
 
 💡 **Splash Screen** the Splash Screen is the window that appears when you launch the application. It provides quick access to common tasks and resources.
 
-![Splash Screen](https://example.com/wall-frame.jpg)
+![Splash Screen](/images/splashScreen.png)
 
 
 
