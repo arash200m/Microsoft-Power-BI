@@ -34,8 +34,8 @@ A few data processing functions a pivot table can perform include identifying su
 > How to Create Pivot Table in Excel [![more](https://img.shields.io/badge/more-youtube-green.svg)](https://www.youtube.com/watch?v=PdJzy956wo4) 
 
 
-
-- Splash Screen   
+> [!NOTE]  
+> Splash Screen   
 the Splash Screen is the window that appears when you launch the application. It provides quick access to common tasks and resources.
 
 
