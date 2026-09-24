@@ -1,6 +1,6 @@
-# Power BI Tutorials for Beginners
+# Learn Power BI in Under 3 Hours | Formatting, Visualizations, Dashboards + Full Project
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/g0m5sEHPU-s/0.jpg)](https://www.youtube.com/watch?v=g0m5sEHPU-s)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/g0m5sEHPU-s/0.jpg)](https://www.youtube.com/watch?v=I0vQ_VLZTWg)
 
 comment
 
@@ -8,21 +8,75 @@ comment
 
 <hr>
 
+
 ### Table of Content   
 
-[Add title here](#add-title-here)   
-[Add title here](#add-title-here)   
-[Add title here](#add-title-here)   
-[Add title here](#add-title-here)   
-[Add title here](#add-title-here)   
-[Add title here](#add-title-here)   
+- [Prerequisites](#colororangetextPrerequisites) 
+- [References](#colororangetextReferences)   
+- [First Title](#First-Title)   
+- [...........](#colororangetext........... )   
+- [...........](#colororangetext........... )      
+- [Terminology](#colororangetextTerminology)
+- [22222. The Promise-Based ,`async/await` (Pattern) in Node.js](#22222-The-Promise-Based-asyncawait-Pattern-in-Nodejs)
+
+<!-----------------------------------------------------------------------------------------><hr /> 
+
+# $$\color{orange}{\text{Prerequisites}}$$
+1. C++
+2. Java
+
+# $$\color{orange}{\text{References}}$$
+1. [[from](https://www.microsoft.com/en-gb/download/details.aspx?id=58494) ](https://www.microsoft.com/en-gb/download/details.aspx?id=58494)
+1. Second ordered list
+1. Third ordered list
+
+<!-----------------------------------------------------------------------------------------><hr /> 
+
+# First Title
+# $$\color{orange}{\text{First Title}}$$
 
 
-### Installing Power BI Desktop
-- [[from](https://www.microsoft.com/en-gb/download/details.aspx?id=58494) ](https://www.microsoft.com/en-gb/download/details.aspx?id=58494)
-- 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> 
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> 
+
+<hr />
+💡
+✅ 
+🎓 Academic Honesty
+📚 References
+🔗 [Node.js Official site](https://nodejs.org/)
+💻 Source Code
+
+Insert an emoji On Windows, press: `Windows key + .`
+
+### [Nginx More](./Material/Nginx.md "Nginx is a web server, reverse proxy and load balancer.")
+
+# 22222. The Promise-Based ,`async/await` (Pattern) in Node.js
+
+# $$\color{orange}{\text{Terminology}}$$
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
+![TheEnd](images/TheEnd.jpeg)
 
 
 
