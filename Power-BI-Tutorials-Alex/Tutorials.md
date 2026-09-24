@@ -1,6 +1,6 @@
 # Learn Power BI in Under 3 Hours | Formatting, Visualizations, Dashboards + Full Project
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/g0m5sEHPU-s/0.jpg)](https://www.youtube.com/watch?v=I0vQ_VLZTWg)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/I0vQ_VLZTWg/0.jpg)](https://www.youtube.com/watch?v=I0vQ_VLZTWg)
 
 comment
 
