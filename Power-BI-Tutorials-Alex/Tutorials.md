@@ -54,10 +54,14 @@ comment
 | **6** | Decomposition tree | Q&A | Smart narrative | Scorecard | Paginated report | ArcGIS Maps for Power BI |
 | **7** | Power Apps | Power Automate | More visuals (`...`) | | | |
 
-![PowerBI-Visualization-Pane](images/02-PowerBI-Visualization-Pane.png)
 
 [Visualization Pane](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualizations-overview)
 
+---
+
+![PowerBI-Visualization-Pane](images/02-PowerBI-Visualization-Pane.png)
+
+---
 
 <!-----------------------------------------------------------------------------------------><hr /> 
 
