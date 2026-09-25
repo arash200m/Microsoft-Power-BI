@@ -32,14 +32,28 @@ comment
 
 <!-----------------------------------------------------------------------------------------><hr /> 
 
+# $$\color{orange}{\text{Power BI Desktop Visualizations}}$$
+
+[01-PowerBI-Visualization-pane.png](images/01-PowerBI-Visualization-pane.png)
+
+| Row | 1st icon | 2nd icon | 3rd icon | 4th icon | 5th icon | 6th icon |
+|---|---|---|---|---|---|---|
+| **1** | Stacked bar chart | Stacked column chart | Clustered bar chart | Clustered column chart | 100% stacked bar chart | 100% stacked column chart |
+| **2** | Line chart | Area chart | Stacked area chart | Line and stacked column chart | Line and clustered column chart | Ribbon chart |
+| **3** | Waterfall chart | Funnel chart | Scatter chart | Pie chart | Donut chart | Treemap |
+| **4** | Map | Filled map | Gauge | Card | Multi-row card | KPI |
+| **5** | Slicer | Table | Matrix | R script visual | Python visual | Key influencers |
+| **6** | Decomposition tree | Q&A | Smart narrative | Scorecard | Paginated report | ArcGIS Maps for Power BI |
+| **7** | Power Apps | Power Automate | More visuals (`...`) | | | |
+
+
+
+
+
+<!-----------------------------------------------------------------------------------------><hr /> 
+
 # First Title
 # $$\color{orange}{\text{First Title}}$$
-
-
-
-
-
-
 
 
 
