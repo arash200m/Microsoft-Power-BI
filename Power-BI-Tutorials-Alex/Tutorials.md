@@ -55,7 +55,7 @@ comment
 | **7** | Power Apps | Power Automate | More visuals (`...`) | | | |
 
 
-
+[Visualization Pane](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualizations-overview)
 
 
 <!-----------------------------------------------------------------------------------------><hr /> 
