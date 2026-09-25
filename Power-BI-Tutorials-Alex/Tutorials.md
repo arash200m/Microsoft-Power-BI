@@ -13,8 +13,16 @@ comment
 
 - [Prerequisites](#colororangetextPrerequisites) 
 - [References](#colororangetextReferences)   
-- [First Title](#First-Title)   
-- [...........](#colororangetext........... )   
+- [Power BI Desktop Visualizations pane](#colororangetextPower-BI-Desktop-Visualizations-pane)   
+- [...........](#colororangetext........... )
+- [...........](#colororangetext........... )
+- [...........](#colororangetext........... )
+- [...........](#colororangetext........... )
+- [...........](#colororangetext........... )
+- [...........](#colororangetext........... )
+- [...........](#colororangetext........... )
+- [...........](#colororangetext........... )
+- [...........](#colororangetext........... )
 - [...........](#colororangetext........... )      
 - [Terminology](#colororangetextTerminology)
 - [22222. The Promise-Based ,`async/await` (Pattern) in Node.js](#22222-The-Promise-Based-asyncawait-Pattern-in-Nodejs)
@@ -32,7 +40,7 @@ comment
 
 <!-----------------------------------------------------------------------------------------><hr /> 
 
-# $$\color{orange}{\text{Power BI Desktop Visualizations}}$$
+# $$\color{orange}{\text{Power BI Desktop Visualizations pane}}$$
 
 ![01-PowerBI-Visualization-pane.png](images/01-PowerBI-Visualization-pane.png)
 
