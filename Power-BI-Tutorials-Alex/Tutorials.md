@@ -34,7 +34,7 @@ comment
 
 # $$\color{orange}{\text{Power BI Desktop Visualizations}}$$
 
-[01-PowerBI-Visualization-pane.png](images/01-PowerBI-Visualization-pane.png)
+![01-PowerBI-Visualization-pane.png](images/01-PowerBI-Visualization-pane.png)
 
 | Row | 1st icon | 2nd icon | 3rd icon | 4th icon | 5th icon | 6th icon |
 |---|---|---|---|---|---|---|
