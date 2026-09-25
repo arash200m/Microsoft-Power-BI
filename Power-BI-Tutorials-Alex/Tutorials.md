@@ -63,6 +63,8 @@ comment
 
 ---
 
+![03-PowerBI-LeftPane.png](images/03-PowerBI-LeftPane.png)
+
 <!-----------------------------------------------------------------------------------------><hr /> 
 
 # First Title
