@@ -288,6 +288,10 @@ The existing conversion to **Decimal number** is kept, and another step converts
 
 X-axis has 2 field, `Store` and `Product`
 
+And the below Icons activated and shows up.
+
+![12-PowerBI-Hierachy-02.png](images/12-PowerBI-Hierachy-02.png)
+
 
 take it out
 <!-----------------------------------------------------------------------------------------><hr /> 
