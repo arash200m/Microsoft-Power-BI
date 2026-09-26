@@ -14,8 +14,10 @@ comment
 - [Prerequisites](#colororangetextPrerequisites) 
 - [References](#colororangetextReferences)   
 - [Power BI Desktop Visualizations pane](#colororangetextPower-BI-Desktop-Visualizations-pane)   
-- [...........](#colororangetext........... )
-- [...........](#colororangetext........... )
+- [Power Query](#colororangetextPower-Query)
+  - [Power Query: Replace current vs Add new step](#colororangetextPower-Query:-Replace-current-vs-Add-new-step)
+  - [...........](#colororangetext........... )
+  - [...........](#colororangetext........... )    
 - [...........](#colororangetext........... )
 - [...........](#colororangetext........... )
 - [...........](#colororangetext........... )
@@ -67,11 +69,32 @@ comment
 
 <!-----------------------------------------------------------------------------------------><hr /> 
 
-# First Title
+# $$\color{orange}{\text{Power Query}}$$
+
+
+# $$\color{orange}{\text{Power Query: Replace current vs Add new step}}$$
+
+![04-PowerBI-ChangeColumnType.png](images/04-PowerBI-ChangeColumnType.png)
+
+This message appears because the column already has a data type conversion in **Applied Steps**.
+
+| Option | What happens | When to use it |
+|---|---|---|
+| **Replace current** | Changes the existing type conversion step to your new choice. | The previous data type was a mistake. |
+| **Add new step** | Keeps the previous conversion and adds another conversion after it. | You intentionally need both conversions in sequence. |
+
+### Example
+
+Suppose `Price` contains `8.75`, but an existing step converts it to **Whole Number**. You now select **Decimal Number**:
+
+1. **Replace current:** Power Query changes the existing step to convert `Price` directly to Decimal Number.
+2. **Add new step:** Power Query first converts `Price` to Whole Number, then converts that result to Decimal Number. Any precision lost in the first step cannot be recovered by the second step.
+
+**Rule of thumb:** If you are correcting the column's data type, choose **Replace current**.
+
+<!-----------------------------------------------------------------------------------------><hr /> 
+
 # $$\color{orange}{\text{First Title}}$$
-
-
-
 
 
 
