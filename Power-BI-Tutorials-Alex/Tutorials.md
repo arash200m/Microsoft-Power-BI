@@ -283,6 +283,7 @@ The existing conversion to **Decimal number** is kept, and another step converts
 <!-----------------------------------------------------------------------------------------><hr /> 
 
 # $$\color{orange}{\text{Hierachy in Visualization}}$$
+50:00
 
 ![11-PowerBI-Hierachy-01.png](images/11-PowerBI-Hierachy-01.png)
 
