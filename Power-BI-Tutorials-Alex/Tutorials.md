@@ -92,6 +92,28 @@ Suppose `Price` contains `8.75`, but an existing step converts it to **Whole Num
 
 **Rule of thumb:** If you are correcting the column's data type, choose **Replace current**.
 
+## Replace current vs Add new step
+
+**Your actions:**
+
+Column A: `Text` → changed to `Decimal number` → now changing to `Fixed decimal number`
+
+### Replace current
+
+Column A: `Text` → `Fixed decimal number`
+
+The existing conversion to **Decimal number** is replaced with a conversion to **Fixed decimal number**.
+
+**Result: One conversion step.**
+
+### Add new step
+
+Column A: `Text` → `Decimal number` → `Fixed decimal number`
+
+The existing conversion to **Decimal number** is kept, and another step converts its result to **Fixed decimal number**.
+
+**Result: Two conversion steps.**
+
 <!-----------------------------------------------------------------------------------------><hr /> 
 
 # $$\color{orange}{\text{First Title}}$$
