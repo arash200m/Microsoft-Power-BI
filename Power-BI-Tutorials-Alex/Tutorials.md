@@ -130,6 +130,60 @@ It tells Power Query which regional rules to use when interpreting values.
 
 # $$\color{orange}{\text{Power Query: Replace current vs Add new step}}$$
 
+## What Is Power Query M?
+
+**M** is the programming language used by **Power Query** to connect to data, clean it, and transform it before loading it into Power BI.
+
+When you use buttons in Power Query, it automatically writes **M code** for your actions.
+
+**Your action → Generated M code → Transformed data**
+
+### Example: Changing the `price` Data Type
+
+**Your action:**
+
+Select `price` → Change Data Type → Decimal Number
+
+**Power Query generates M code like this:**
+
+```powerquery
+= Table.TransformColumnTypes(
+    Source,
+    {{"price", type number}}
+)
+```
+
+**What each part means:**
+
+| Code | Meaning |
+|---|---|
+| `Table.TransformColumnTypes` | A function that changes column data types. |
+| `Source` | The input table from an earlier step. |
+| `"price"` | The name of the column being changed. |
+| `type number` | The M type used for Decimal Number. |
+
+**Result:**
+
+`price`: `"19.95"` (Text) → `19.95` (Decimal Number)
+
+### Where Can You See M Code?
+
+- **Formula Bar:** Shows the M expression for the selected step.
+- **Advanced Editor:** Shows the complete M code for the query.
+
+### M vs DAX
+
+| Language | Main purpose | Example |
+|---|---|---|
+| **M** | Prepares and transforms data in Power Query. | Change `price` from Text to Decimal Number. |
+| **DAX** | Defines calculations in the Power BI data model. | Calculate total sales with a measure. |
+
+**You can use Power Query without writing M yourself. Learning M gives you more control over your transformations.**
+
+<!-----------------------------------------------------------------------------------------><hr /> 
+
+# $$\color{orange}{\text{Power Query: Replace current vs Add new step}}$$
+
 ![04-PowerBI-ChangeColumnType.png](images/04-PowerBI-ChangeColumnType.png)
 
 This message appears because the column already has a data type conversion in **Applied Steps**.
