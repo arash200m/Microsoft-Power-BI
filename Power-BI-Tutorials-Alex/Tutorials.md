@@ -98,8 +98,6 @@ Suppose `Price` contains `8.75`, but an existing step converts it to **Whole Num
 
 `price`: `Text` → changed to `Decimal number` → now changing to `Fixed decimal number`   
 
-`price`: `Text` → `Decimal number` → `Fixed decimal number`
-
 ### Replace current
 
 `price`: `Text` → `Fixed decimal number`
