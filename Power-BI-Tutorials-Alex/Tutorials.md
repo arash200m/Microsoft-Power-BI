@@ -282,10 +282,13 @@ The existing conversion to **Decimal number** is kept, and another step converts
 
 <!-----------------------------------------------------------------------------------------><hr /> 
 
+# $$\color{orange}{\text{Hierachy in Visualization}}$$
+
+![11-PowerBI-Hierachy-01.png](images/11-PowerBI-Hierachy-01.png)
+
+<!-----------------------------------------------------------------------------------------><hr /> 
+
 # $$\color{orange}{\text{First Title}}$$
-
-
-
 
 
 
