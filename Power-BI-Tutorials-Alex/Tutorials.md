@@ -20,8 +20,8 @@ comment
   - [Power Query: Replace current vs Add new step](#colororangetextPower-Query-Replace-current-vs-Add-new-step)
   - [...........](#colororangetext........... )
   - [...........](#colororangetext........... )    
-- [...........](#colororangetext........... )
-- [...........](#colororangetext........... )
+- [Pivote and Upivote](#colororangetextPivote-and-Upivote)
+- [Introduction to DAX](#colororangetextIntroduction-to-DAX)
 - [...........](#colororangetext........... )
 - [...........](#colororangetext........... )
 - [...........](#colororangetext........... )
@@ -256,7 +256,43 @@ The existing conversion to **Decimal number** is kept, and another step converts
 
 <!-----------------------------------------------------------------------------------------><hr /> 
 
+# $$\color{orange}{\text{Pivote and Upivote}}$$
+
+
+[06-PowerBI-UnPivote-Columns-01.png](06-PowerBI-UnPivote-Columns-01.png)   
+
+
+[07-PowerBI-UnPivote-Columns-02.png](07-PowerBI-UnPivote-Columns-02.png)   
+
+
+
+
+
+
+<!-----------------------------------------------------------------------------------------><hr /> 
+
+# $$\color{orange}{\text{Introduction to DAX}}$$
+
+
+[08-PowerBI-SUMX-02.png](08-PowerBI-SUMX-02.png)   
+
+[09-PowerBI-Weekday-01.png](09-PowerBI-Weekday-01.png)   
+
+[10-PowerBI-IF-Statement-01.png](10-PowerBI-IF-Statement-01.png)   
+
+<!-----------------------------------------------------------------------------------------><hr /> 
+
 # $$\color{orange}{\text{First Title}}$$
+
+
+
+
+
+
+
+
+
+
 
 
 
