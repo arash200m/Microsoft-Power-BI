@@ -16,7 +16,7 @@ comment
 - [Power BI Desktop Visualizations pane](#colororangetextPower-BI-Desktop-Visualizations-pane)   
 - [Power Query](#colororangetextPower-Query)
   - [Data Types](#colororangetextData-Types)   
-  - [What Is Power Query M?](#colororangetextWhat-Is-Power-Query-M?)   
+  - [What Is Power Query M?](#colororangetextWhat-Is-Power-Query-M)   
   - [Power Query: Replace current vs Add new step](#colororangetextPower-Query-Replace-current-vs-Add-new-step)
   - [...........](#colororangetext........... )
   - [...........](#colororangetext........... )    
