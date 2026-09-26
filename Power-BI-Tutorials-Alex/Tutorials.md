@@ -15,6 +15,7 @@ comment
 - [References](#colororangetextReferences)   
 - [Power BI Desktop Visualizations pane](#colororangetextPower-BI-Desktop-Visualizations-pane)   
 - [Power Query](#colororangetextPower-Query)
+  - [Data Types](#colororangetextData-Types)
   - [Power Query: Replace current vs Add new step](#colororangetextPower-Query-Replace-current-vs-Add-new-step)
   - [...........](#colororangetext........... )
   - [...........](#colororangetext........... )    
@@ -71,6 +72,51 @@ comment
 
 # $$\color{orange}{\text{Power Query}}$$
 
+
+<!-----------------------------------------------------------------------------------------><hr /> 
+
+# $$\color{orange}{\text{Data Types}}$$
+
+![05-PowerBI-PowerQuery-DataTypes.png](images/05-PowerBI-PowerQuery-DataTypes.png)
+
+A **data type** tells Power Query what kind of value a column contains and how to process it.
+
+| Data type | Description | Example |
+|---|---|---|
+| **Decimal Number** | A number that can contain decimal places. Uses floating-point storage, so some values are approximate. | `19.95` |
+| **Fixed decimal number** | A number with exactly four decimal places of precision. Commonly used for financial values. | `19.9500` |
+| **Whole Number** | An integer without a fractional part. | `25` |
+| **Percentage** | A decimal number displayed as a percentage. | `0.25` → `25%` |
+| **Date/Time** | A date and a time together. | `26/09/2026 14:30:00` |
+| **Date** | A date without a time. | `26/09/2026` |
+| **Time** | A time without a date. | `14:30:00` |
+| **Date/Time/Timezone** | A date and time with a UTC offset. | `26/09/2026 14:30:00 +10:00` |
+| **Duration** | An amount of elapsed time. | `2.03:30:00` = 2 days, 3 hours, 30 minutes |
+| **Text** | Characters such as words, codes, or numbers treated as text. | `"Rice"`, `"00123"` |
+| **True/False** | A logical value with two possible states. | `true` or `false` |
+| **Binary** | Raw bytes, such as the contents of a file. | Image or PDF file contents |
+
+### Example for `price`
+
+`price`: `"19.95"` (Text) → `19.95` (Decimal Number)
+
+The value changes from **text containing digits** to **a number that can be used in calculations**.
+
+`price`: `19.95` (Decimal Number) → Fixed decimal number
+
+The value uses **fixed precision of four decimal places**, equivalent to `19.9500`. The display may omit trailing zeros.
+
+### Using Locale
+
+**Using Locale...** is a conversion option, not a separate data type.
+
+It tells Power Query which regional rules to use when interpreting values.
+
+- `"1,234.56"` + English (United States) → `1234.56`
+- `"1.234,56"` + German (Germany) → `1234.56`
+- `"26/09/2026"` + English (Australia) → 26 September 2026
+
+<!-----------------------------------------------------------------------------------------><hr /> 
 
 # $$\color{orange}{\text{Power Query: Replace current vs Add new step}}$$
 
