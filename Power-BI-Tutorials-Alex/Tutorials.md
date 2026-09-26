@@ -83,7 +83,7 @@ This message appears because the column already has a data type conversion in **
 | **Replace current** | Changes the existing type conversion step to your new choice. | The previous data type was a mistake. |
 | **Add new step** | Keeps the previous conversion and adds another conversion after it. | You intentionally need both conversions in sequence. |
 
-### Example
+### Example 1 : Replace current vs Add new step
 
 Suppose `Price` contains `8.75`, but an existing step converts it to **Whole Number**. You now select **Decimal Number**:
 
@@ -92,15 +92,15 @@ Suppose `Price` contains `8.75`, but an existing step converts it to **Whole Num
 
 **Rule of thumb:** If you are correcting the column's data type, choose **Replace current**.
 
-## Replace current vs Add new step
+## Example 2 : Replace current vs Add new step
 
 **Your actions:**
 
-Column A: `Text` → changed to `Decimal number` → now changing to `Fixed decimal number`
+`price`: `Text` → changed to `Decimal number` → now changing to `Fixed decimal number`
 
 ### Replace current
 
-Column A: `Text` → `Fixed decimal number`
+`price`: `Text` → `Fixed decimal number`
 
 The existing conversion to **Decimal number** is replaced with a conversion to **Fixed decimal number**.
 
@@ -108,7 +108,7 @@ The existing conversion to **Decimal number** is replaced with a conversion to *
 
 ### Add new step
 
-Column A: `Text` → `Decimal number` → `Fixed decimal number`
+`price`: `Text` → `Decimal number` → `Fixed decimal number`
 
 The existing conversion to **Decimal number** is kept, and another step converts its result to **Fixed decimal number**.
 
