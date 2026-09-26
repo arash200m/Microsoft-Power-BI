@@ -15,7 +15,8 @@ comment
 - [References](#colororangetextReferences)   
 - [Power BI Desktop Visualizations pane](#colororangetextPower-BI-Desktop-Visualizations-pane)   
 - [Power Query](#colororangetextPower-Query)
-  - [Data Types](#colororangetextData-Types)
+  - [Data Types](#colororangetextData-Types)   
+  - [What Is Power Query M?](#colororangetextWhat-Is-Power-Query-M?)   
   - [Power Query: Replace current vs Add new step](#colororangetextPower-Query-Replace-current-vs-Add-new-step)
   - [...........](#colororangetext........... )
   - [...........](#colororangetext........... )    
@@ -128,9 +129,7 @@ It tells Power Query which regional rules to use when interpreting values.
 
 <!-----------------------------------------------------------------------------------------><hr /> 
 
-# $$\color{orange}{\text{Power Query: Replace current vs Add new step}}$$
-
-## What Is Power Query M?
+# $$\color{orange}{\text{What Is Power Query M?}}$$
 
 **M** is the programming language used by **Power Query** to connect to data, clean it, and transform it before loading it into Power BI.
 
