@@ -210,18 +210,6 @@ Start with **Goodly’s videos**, practise in Power Query, and keep **Microsoft�
 
 **Companion code:** [The Definitive Guide to Power Query (M) — GitHub Examples](https://github.com/PacktPublishing/The-Definitive-Guide-to-Power-Query-M-)
 
-### Suggested Learning Order
-
-`Applied Steps and Formula Bar` → `let … in` → `Data types` → `Lists, records, and tables` → `if … then … else` → `each and functions` → `try … otherwise`
-
-### Practical Learning Method
-
-Use your existing `price` column:
-
-**Change its type using the interface → Inspect the generated M code → Modify one argument → Observe the result**
-
-This connects each new term to a transformation you have already performed.
-
 <!-----------------------------------------------------------------------------------------><hr /> 
 
 # $$\color{orange}{\text{Power Query: Replace current vs Add new step}}$$
