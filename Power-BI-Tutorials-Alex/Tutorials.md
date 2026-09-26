@@ -22,7 +22,7 @@ comment
   - [...........](#colororangetext........... )    
 - [Pivote and Upivote](#colororangetextPivote-and-Upivote)
 - [Introduction to DAX](#colororangetextIntroduction-to-DAX)
-- [...........](#colororangetext........... )
+- [Hierachy in Visualization](#colororangetextHierachy-in-Visualization)
 - [...........](#colororangetext........... )
 - [...........](#colororangetext........... )
 - [...........](#colororangetext........... )
@@ -286,6 +286,10 @@ The existing conversion to **Decimal number** is kept, and another step converts
 
 ![11-PowerBI-Hierachy-01.png](images/11-PowerBI-Hierachy-01.png)
 
+X-axis has 2 field, `Store` and `Product`
+
+
+take it out
 <!-----------------------------------------------------------------------------------------><hr /> 
 
 # $$\color{orange}{\text{First Title}}$$
