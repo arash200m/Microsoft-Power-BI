@@ -96,7 +96,9 @@ Suppose `Price` contains `8.75`, but an existing step converts it to **Whole Num
 
 **Your actions:**
 
-`price`: `Text` → changed to `Decimal number` → now changing to `Fixed decimal number`
+`price`: `Text` → changed to `Decimal number` → now changing to `Fixed decimal number`   
+
+`price`: `Text` → `Decimal number` → `Fixed decimal number`
 
 ### Replace current
 
