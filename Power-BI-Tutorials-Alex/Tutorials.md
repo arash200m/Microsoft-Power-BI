@@ -15,7 +15,7 @@ comment
 - [References](#colororangetextReferences)   
 - [Power BI Desktop Visualizations pane](#colororangetextPower-BI-Desktop-Visualizations-pane)   
 - [Power Query](#colororangetextPower-Query)
-  - [Power Query: Replace current vs Add new step](#colororangetextPower-Query:-Replace-current-vs-Add-new-step)
+  - [Power Query: Replace current vs Add new step](#colororangetextPower-Query-Replace-current-vs-Add-new-step)
   - [...........](#colororangetext........... )
   - [...........](#colororangetext........... )    
 - [...........](#colororangetext........... )
