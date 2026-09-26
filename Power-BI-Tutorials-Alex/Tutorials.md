@@ -81,20 +81,30 @@ comment
 
 A **data type** tells Power Query what kind of value a column contains and how to process it.
 
-| Data type | Description | Example |
-|---|---|---|
-| **Decimal Number** | A number that can contain decimal places. Uses floating-point storage, so some values are approximate. | `19.95` |
-| **Fixed decimal number** | A number with exactly four decimal places of precision. Commonly used for financial values. | `19.9500` |
-| **Whole Number** | An integer without a fractional part. | `25` |
-| **Percentage** | A decimal number displayed as a percentage. | `0.25` → `25%` |
-| **Date/Time** | A date and a time together. | `26/09/2026 14:30:00` |
-| **Date** | A date without a time. | `26/09/2026` |
-| **Time** | A time without a date. | `14:30:00` |
-| **Date/Time/Timezone** | A date and time with a UTC offset. | `26/09/2026 14:30:00 +10:00` |
-| **Duration** | An amount of elapsed time. | `2.03:30:00` = 2 days, 3 hours, 30 minutes |
-| **Text** | Characters such as words, codes, or numbers treated as text. | `"Rice"`, `"00123"` |
-| **True/False** | A logical value with two possible states. | `true` or `false` |
-| **Binary** | Raw bytes, such as the contents of a file. | Image or PDF file contents |
+## Power Query Data Types
+
+| Data Type | Keyword / M Type | Typical Size | Description | Example | Range |
+|---|---|---|---|---|---|
+| **Decimal Number** | `type number` | 8 bytes | Stores whole and fractional numbers using floating-point representation. Approximately 15 significant digits of precision. | `19.95` | Approximately `−1.79 × 10^308` to `+1.79 × 10^308`. |
+| **Fixed decimal number** | `Currency.Type` | 8 bytes | Stores numbers with four decimal places of precision. Commonly used for financial values. | `19.9500` | `−922,337,203,685,477.5808` to `922,337,203,685,477.5807`. |
+| **Whole Number** | `Int64.Type` | 8 bytes | Stores integers without decimal places. | `25` | `−9,223,372,036,854,775,808` to `9,223,372,036,854,775,807`. |
+| **Percentage** | `Percentage.Type` | 8 bytes | Stores a decimal number and displays it as a percentage. | `0.25` → `25%` | Same underlying numeric range as Decimal Number; not limited to `0%–100%`. |
+| **Date/Time** | `type datetime` | Implementation-dependent | Stores a date and a time together. | `#datetime(2026, 9, 26, 14, 30, 0)` | Years `1–9999` in M; Power BI model limits differ. |
+| **Date** | `type date` | Implementation-dependent | Stores a date without a time. | `#date(2026, 9, 26)` | `0001-01-01` to `9999-12-31` in M. |
+| **Time** | `type time` | Implementation-dependent | Stores a time of day without a date. | `#time(14, 30, 0)` | Normally `00:00:00` to `23:59:59.9999999`. |
+| **Date/Time/Timezone** | `type datetimezone` | Implementation-dependent | Stores a date and time with a UTC offset. | `#datetimezone(2026, 9, 26, 14, 30, 0, 10, 0)` | Years `1–9999` in M, subject to valid timezone-offset limits. |
+| **Duration** | `type duration` | Implementation-dependent | Stores elapsed time in days, hours, minutes, and seconds. | `#duration(2, 3, 30, 0)` = 2 days, 3 hours, 30 minutes | Approximately `−10,675,199` to `+10,675,199` days. |
+| **Text** | `type text` | Variable | Stores Unicode characters, including numbers treated as text. | `"Rice"`, `"00123"` | Up to `268,435,456` Unicode characters according to Power Query documentation. |
+| **True/False** | `type logical` | Implementation-dependent | Stores a Boolean value. | `true` or `false` | Two logical values: `true` and `false`. |
+| **Binary** | `type binary` | Variable | Stores raw bytes, such as file contents. | `#binary({65, 66, 67})` | Each byte is `0–255`; total length depends on resource limits. |
+
+### Notes
+
+- **Typical Size** describes the underlying numeric representation where specified. Actual memory usage includes overhead, and Power BI model compression affects storage size.
+- **Implementation-dependent** means a fixed per-value memory size is not guaranteed here.
+- **Range** describes supported values, not how many decimal digits remain accurate.
+- Power Query **M** supports dates from year `1`; loading dates into the Power BI model has more restrictive limits.
+- **Using Locale...** is a conversion option, not a data type. It controls how regional number and date formats are interpreted.
 
 ### Example for `price`
 
