@@ -179,6 +179,49 @@ Select `price` → Change Data Type → Decimal Number
 
 **You can use Power Query without writing M yourself. Learning M gives you more control over your transformations.**
 
+---
+
+## Resources for Learning Power Query M
+
+Start with **Goodly’s videos**, practise in Power Query, and keep **Microsoft’s function reference** open while you work.
+
+### Websites and Official References
+
+| Resource | Type | Why Use It? |
+|---|---|---|
+| [Microsoft — M Quick Tour](https://learn.microsoft.com/en-us/powerquery-m/quick-tour-of-the-power-query-m-formula-language) | Free official tutorial | Learn M syntax, expressions, and `let … in`. |
+| [Microsoft — M Function Reference](https://learn.microsoft.com/en-us/powerquery-m/power-query-m-function-reference) | Free official reference | Look up functions, their parameters, and examples while coding. |
+| [Ben Gribaudo — Power Query M Primer](https://bengribaudo.com/power-query-m-primer) | Free article series | Understand how M works beyond the Power Query interface. |
+| [BI Gorilla — Mastering M Functions Guide](https://gorilla.bi/power-query/mastering-m-functions-guide/) | Free website | Learn which functions to study and in what order. |
+
+### YouTube Videos
+
+| Video | Creator | Purpose |
+|---|---|---|
+| [Getting Started With M Language in Power Query — Basic to Advanced](https://www.youtube.com/watch?v=5s8Ky5r43uI) | Goodly | An introduction to learning M and progressing beyond Power Query buttons. |
+| [Learn Power Query’s M Language in 2024](https://www.youtube.com/watch?v=JmA_L4gOBUA) | Goodly | Guidance for organising your M learning. |
+
+### Books
+
+| Book | Authors | Best Suited To |
+|---|---|---|
+| [Master Your Data with Excel and Power BI](https://excelguru.ca/master-your-data/) | Ken Puls and Miguel Escobar | Practical data-cleaning exercises with downloadable example files. This is the successor to *M Is for Data Monkey*. |
+| [The Definitive Guide to Power Query (M)](https://www.packtpub.com/en-au/product/the-definitive-guide-to-power-query-m-9781835089729) | Greg Deckler, Rick de Groot, and Melissa de Korte | A deeper study of M and more complex transformations. |
+
+**Companion code:** [The Definitive Guide to Power Query (M) — GitHub Examples](https://github.com/PacktPublishing/The-Definitive-Guide-to-Power-Query-M-)
+
+### Suggested Learning Order
+
+`Applied Steps and Formula Bar` → `let … in` → `Data types` → `Lists, records, and tables` → `if … then … else` → `each and functions` → `try … otherwise`
+
+### Practical Learning Method
+
+Use your existing `price` column:
+
+**Change its type using the interface → Inspect the generated M code → Modify one argument → Observe the result**
+
+This connects each new term to a transformation you have already performed.
+
 <!-----------------------------------------------------------------------------------------><hr /> 
 
 # $$\color{orange}{\text{Power Query: Replace current vs Add new step}}$$
