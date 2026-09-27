@@ -311,8 +311,6 @@ take it out
 
 ![15-PowerBI-Group-List-03.png](images/15-PowerBI-Group-List-03.png)   
 
-## List Grouping in Power BI
-
 **List** lets you manually combine selected values into named groups.
 
 **Original values → Select values → Assign a group name**
