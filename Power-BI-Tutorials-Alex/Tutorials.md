@@ -298,7 +298,103 @@ take it out
 <!-----------------------------------------------------------------------------------------><hr /> 
 
 # $$\color{orange}{\text{Bins and Lists}}$$
-Groups 
+
+## List Group
+
+![13-PowerBI-Group-List-01.png](images/13-PowerBI-Group-List-01.png)   
+
+![14-PowerBI-Group-List-02.png](images/14-PowerBI-Group-List-02.png)   
+
+![15-PowerBI-Group-List-03.png](images/15-PowerBI-Group-List-03.png)   
+
+![16-PowerBI-Group-bins-01.png](16-PowerBI-Group-bins-01.png)   
+
+## Grouping and Binning in Power BI
+
+**Binning** divides numeric or date/time values into equal-width intervals called **bins**.
+
+For example:
+
+Individual ages → Group into 10-year intervals → Analyse the number of people in each interval
+
+### Items in the Groups Window
+
+| Item | Example | Meaning |
+|---|---|---|
+| **Name** | `Age (bins)` | The name of the new grouped field. You can rename it. |
+| **Field** | `Age` | The original column whose values will be grouped. |
+| **Group type** | `Bin` | Automatically groups values into equal-width intervals. The alternative, **List**, lets you manually group selected values. |
+| **Bin type** | `Number of bins` or `Size of bins` | Determines whether you specify the number of intervals or their width. |
+| **Min value** | `18` | The smallest value in the original column. |
+| **Max value** | `79` | The largest value in the original column. |
+| **Bin count** | `5` | The number used to divide the overall range into intervals. It does not mean five people per group. |
+| **Bin size** | `12.2` | The width of each interval, measured in the original column's units. For `Age`, this means years. |
+| **Reset to default** | Button | Restores Power BI's automatically suggested setting. |
+| **OK** | Button | Saves the settings and creates the bin field. |
+| **Cancel** | Button | Closes the dialog without saving the changes. |
+
+### Number of Bins vs Size of Bins
+
+| Bin type | You specify | Power BI determines |
+|---|---|---|
+| **Number of bins** | The bin count, such as `5`. | The width of each interval. |
+| **Size of bins** | The interval width, such as `10` years. | The intervals needed to cover the data. |
+
+### How Your Bin Size Is Calculated — Number of Bins
+
+**Your settings:**
+
+- Minimum age: `18`
+- Maximum age: `79`
+- Bin count: `5`
+
+**Calculation:**
+
+`Range = Maximum age − Minimum age`
+
+`79 − 18` → `61` years
+
+`Bin size = Range ÷ Bin count`
+
+`61 ÷ 5` → **12.2 years per bin**
+
+**You choose the count → Power BI calculates the size.**
+
+### How Your Bin Size Is Set — Size of Bins
+
+**Your settings:**
+
+- Minimum age: `18`
+- Maximum age: `79`
+- Bin size: `10` years
+
+There is no bin-size calculation because **you enter the width directly**.
+
+`Bin size = Your chosen interval width` → **10 years**
+
+With numeric bins aligned to multiples of `10`, the age intervals covering your data are:
+
+| Bin label | Interval | Whole-number ages |
+|---|---|---|
+| `10` | `10 ≤ Age < 20` | `10–19` |
+| `20` | `20 ≤ Age < 30` | `20–29` |
+| `30` | `30 ≤ Age < 40` | `30–39` |
+| `40` | `40 ≤ Age < 50` | `40–49` |
+| `50` | `50 ≤ Age < 60` | `50–59` |
+| `60` | `60 ≤ Age < 70` | `60–69` |
+| `70` | `70 ≤ Age < 80` | `70–79` |
+
+Your data begins at `18`, so the first interval contains only the available ages `18` and `19`.
+
+**You choose the size → Power BI assigns values to the corresponding intervals.**
+
+> Bin boundaries matter: dividing `61 ÷ 10` alone does not establish where the intervals begin. A bin does not necessarily start at your minimum value of `18`.
+
+### Important Distinction
+
+**Equal-width bins do not mean equal numbers of people.**
+
+Each interval spans the same number of years, but one interval might contain `20` people while another contains `100`.
 
 
 
