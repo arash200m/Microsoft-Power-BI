@@ -23,7 +23,7 @@ comment
 - [Pivote and Upivote](#colororangetextPivote-and-Upivote)
 - [Introduction to DAX](#colororangetextIntroduction-to-DAX)
 - [Hierachy in Visualization](#colororangetextHierachy-in-Visualization)
-- [...........](#colororangetext........... )
+- [Bins and Lists](#colororangetextBins-and-Lists)
 - [...........](#colororangetext........... )
 - [...........](#colororangetext........... )
 - [...........](#colororangetext........... )
