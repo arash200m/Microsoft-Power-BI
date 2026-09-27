@@ -515,11 +515,6 @@ The original `Customer` column remains available, so you can still analyse indiv
 
 
 
-
-
-
-
-
 <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> 
 <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> 
 
