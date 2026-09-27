@@ -24,8 +24,8 @@ comment
 - [Introduction to DAX](#colororangetextIntroduction-to-DAX)
 - [Hierachy in Visualization](#colororangetextHierachy-in-Visualization)
 - [Bins and Lists](#colororangetextBins-and-Lists)
-  - [List Grouping in Power BI](#List-Grouping-in-Power-BI)
   - [Grouping and Binning in Power BI](#Grouping-and-Binning-in-Power-BI)
+  - [List Grouping in Power BI](#List-Grouping-in-Power-BI)
 - [...........](#colororangetext........... )
 - [...........](#colororangetext........... )
 - [...........](#colororangetext........... )
@@ -303,79 +303,25 @@ take it out
 
 # $$\color{orange}{\text{Bins and Lists}}$$
 
-## List Grouping in Power BI
+## Bins and List Grouping in Power BI
 
-![13-PowerBI-Group-List-01.png](images/13-PowerBI-Group-List-01.png)   
+**Grouping** is the process of combining individual values into broader categories to simplify data analysis and visualisation. Power BI supports two grouping methods: **Bin** and **List**.
 
-![14-PowerBI-Group-List-02.png](images/14-PowerBI-Group-List-02.png)   
+### Bin Grouping
 
-![15-PowerBI-Group-List-03.png](images/15-PowerBI-Group-List-03.png)   
+**Bin grouping**, also called **binning**, automatically divides numeric or date/time values into intervals of equal width. Each value is assigned to an interval according to its value. The intervals are defined by specifying either the **bin size** or the **number of bins**.
 
-**List** lets you manually combine selected values into named groups.
+**Example:** Grouping customer ages into 10-year intervals, such as `20–29`, `30–39`, and `40–49`.
 
-**Original values → Select values → Assign a group name**
+### List Grouping
 
-Unlike **Bin**, which creates equal-width intervals, **List** lets you decide which values belong together.
+**List grouping** combines selected, distinct values into manually defined categories. The user chooses which values belong together and assigns a name to each group. The groups do not require equal intervals or equal numbers of members.
 
-### Example from Your Picture
+**Example:** Combining selected customer names into groups called `Retail Customers` and `Wholesale Customers`.
 
-The original column is `Customer`. You have organised its values into two groups:
+Both methods create a new grouped field while preserving the original field.
 
-| Original Customer | Assigned Group |
-|---|---|
-| Apocalypse Preppers United | The Worst Prepping Stores |
-| Uncle Joe’s Prep Shop | The Worst Prepping Stores |
-| Alex The Analyst Apocalypse Preppers | The Best Prepping Stores |
-| Prep4Anything Prepping Store | The Best Prepping Stores |
-
-**Four customer names → Two manually defined groups**
-
-These names are labels you assign. Power BI does not automatically decide which stores are “best” or “worst”.
-
-### Items in the Groups Window
-
-| Item | Your Setting | Meaning |
-|---|---|---|
-| **Name** | `Customer (List)` | The name of the new grouped field. |
-| **Field** | `Customer` | The original column containing the values you want to group. |
-| **Group type** | `List` | Lets you manually select values and combine them into named groups. |
-| **Ungrouped values** | Empty in your picture | Values that have not been assigned to a group. It is empty because all displayed customer values have been grouped. |
-| **Groups and members** | Two groups with their customers | Shows each group name and the original values belonging to it. |
-| **Group** | Button | Combines selected values into a group. It is disabled in your picture because no ungrouped values are selected. |
-| **Ungroup** | Button | Removes selected members from a group, or breaks apart a selected group. |
-| **Include Other group** | Unchecked | When checked, values not assigned to your named groups are collected into an `Other` group. When unchecked, they remain separate values. |
-| **OK** | Button | Saves your grouping. |
-| **Cancel** | Button | Closes the dialog without saving your changes. |
-
-### How to Create a List Group
-
-1. In **Ungrouped values**, hold **Ctrl** and select the values you want to combine.
-2. Click **Group**.
-3. Double-click the group name to rename it.
-4. Repeat for your other groups.
-5. Click **OK**.
-
-**Select customers → Click Group → Rename the group → Click OK**
-
-### How to Use the New Field
-
-Use `Customer (List)` in a visual to compare the groups.
-
-For example:
-
-`Customer (List)` on the X-axis + `Total Sales` on the Y-axis  
-→ Compare total sales for the two store groups.
-
-The original `Customer` column remains available, so you can still analyse individual stores.
-
-### List vs Bin
-
-| Group Type | How Groups Are Created | Example |
-|---|---|---|
-| **List** | You manually choose the members of each group. | Selected customers → `The Best Prepping Stores` |
-| **Bin** | Power BI assigns numeric or date/time values to equal-width intervals. | Ages → 10-year intervals |
-
----
+<!-----------------------------------------------------------------------------------------><hr /> 
 
 ## Grouping and Binning in Power BI
 
@@ -466,7 +412,79 @@ Your data begins at `18`, so the first interval contains only the available ages
 
 Each interval spans the same number of years, but one interval might contain `20` people while another contains `100`.
 
+<!-----------------------------------------------------------------------------------------><hr /> 
 
+## List Grouping in Power BI
+
+![13-PowerBI-Group-List-01.png](images/13-PowerBI-Group-List-01.png)   
+
+![14-PowerBI-Group-List-02.png](images/14-PowerBI-Group-List-02.png)   
+
+![15-PowerBI-Group-List-03.png](images/15-PowerBI-Group-List-03.png)   
+
+**List** lets you manually combine selected values into named groups.
+
+**Original values → Select values → Assign a group name**
+
+Unlike **Bin**, which creates equal-width intervals, **List** lets you decide which values belong together.
+
+### Example from Your Picture
+
+The original column is `Customer`. You have organised its values into two groups:
+
+| Original Customer | Assigned Group |
+|---|---|
+| Apocalypse Preppers United | The Worst Prepping Stores |
+| Uncle Joe’s Prep Shop | The Worst Prepping Stores |
+| Alex The Analyst Apocalypse Preppers | The Best Prepping Stores |
+| Prep4Anything Prepping Store | The Best Prepping Stores |
+
+**Four customer names → Two manually defined groups**
+
+These names are labels you assign. Power BI does not automatically decide which stores are “best” or “worst”.
+
+### Items in the Groups Window
+
+| Item | Your Setting | Meaning |
+|---|---|---|
+| **Name** | `Customer (List)` | The name of the new grouped field. |
+| **Field** | `Customer` | The original column containing the values you want to group. |
+| **Group type** | `List` | Lets you manually select values and combine them into named groups. |
+| **Ungrouped values** | Empty in your picture | Values that have not been assigned to a group. It is empty because all displayed customer values have been grouped. |
+| **Groups and members** | Two groups with their customers | Shows each group name and the original values belonging to it. |
+| **Group** | Button | Combines selected values into a group. It is disabled in your picture because no ungrouped values are selected. |
+| **Ungroup** | Button | Removes selected members from a group, or breaks apart a selected group. |
+| **Include Other group** | Unchecked | When checked, values not assigned to your named groups are collected into an `Other` group. When unchecked, they remain separate values. |
+| **OK** | Button | Saves your grouping. |
+| **Cancel** | Button | Closes the dialog without saving your changes. |
+
+### How to Create a List Group
+
+1. In **Ungrouped values**, hold **Ctrl** and select the values you want to combine.
+2. Click **Group**.
+3. Double-click the group name to rename it.
+4. Repeat for your other groups.
+5. Click **OK**.
+
+**Select customers → Click Group → Rename the group → Click OK**
+
+### How to Use the New Field
+
+Use `Customer (List)` in a visual to compare the groups.
+
+For example:
+
+`Customer (List)` on the X-axis + `Total Sales` on the Y-axis  
+→ Compare total sales for the two store groups.
+
+The original `Customer` column remains available, so you can still analyse individual stores.
+
+### List vs Bin
+
+| Group Type | How Groups Are Created | Example |
+|---|---|---|
+| **List** | You manually choose the members of each group. | Selected customers → `The Best Prepping Stores` |
+| **Bin** | Power BI assigns numeric or date/time values to equal-width intervals. | Ages → 10-year intervals |
 
 
 <!-----------------------------------------------------------------------------------------><hr /> 
