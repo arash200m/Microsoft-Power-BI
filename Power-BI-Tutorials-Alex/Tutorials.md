@@ -23,7 +23,7 @@ comment
 - [Pivote and Upivote](#colororangetextPivote-and-Upivote)
 - [Introduction to DAX](#colororangetextIntroduction-to-DAX)
 - [Hierachy in Visualization](#colororangetextHierachy-in-Visualization)
-- [Bins and Lists](#colororangetextBins-and-Lists)
+- [Bins and List Grouping in Power BI](#colororangetextBins-and-List-Grouping-in-Power-BI)
   - [Grouping and Binning in Power BI](#Grouping-and-Binning-in-Power-BI)
   - [List Grouping in Power BI](#List-Grouping-in-Power-BI)
 - [...........](#colororangetext........... )
@@ -301,9 +301,7 @@ And the below Icons activated and shows up.
 take it out
 <!-----------------------------------------------------------------------------------------><hr /> 
 
-# $$\color{orange}{\text{Bins and Lists}}$$
-
-## Bins and List Grouping in Power BI
+# $$\color{orange}{\text{Bins and List Grouping in Power BI}}$$
 
 **Grouping** is the process of combining individual values into broader categories to simplify data analysis and visualisation. Power BI supports two grouping methods: **Bin** and **List**.
 
