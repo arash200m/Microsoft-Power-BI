@@ -307,9 +307,9 @@ take it out
 
 ![15-PowerBI-Group-List-03.png](images/15-PowerBI-Group-List-03.png)   
 
-![16-PowerBI-Group-bins-01.png](16-PowerBI-Group-bins-01.png)   
-
 ## Grouping and Binning in Power BI
+
+![16-PowerBI-Group-bins-01.png](images/16-PowerBI-Group-bins-01.png)   
 
 **Binning** divides numeric or date/time values into equal-width intervals called **bins**.
 
