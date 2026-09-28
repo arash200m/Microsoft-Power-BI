@@ -1,6 +1,6 @@
 # Power BI Full Course
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fnA-_iDV_LY/0.jpg)](https://www.youtube.com/watch?v=fnA-_iDV_LY)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/e6QD8lP-m6E/0.jpg)](https://www.youtube.com/watch?v=e6QD8lP-m6E)
 
 D:\Learning\Power BI\Learning\Power BI Full Course
 
