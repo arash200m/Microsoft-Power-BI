@@ -50,9 +50,8 @@ comment
 1. Third ordered list
 
 <!-----------------------------------------------------------------------------------------><hr /> 
-A
 # $$\color{orange}{\text{Power BI Desktop Visualizations pane}}$$
-
+**A**
 
 ![01-PowerBI-Visualization-pane.png](images/01-PowerBI-Visualization-pane.png)
 
@@ -83,9 +82,8 @@ A
 
 
 <!-----------------------------------------------------------------------------------------><hr /> 
-A
 # $$\color{orange}{\text{Data Types}}$$
-
+**A**
 ![05-PowerBI-PowerQuery-DataTypes.png](images/05-PowerBI-PowerQuery-DataTypes.png)
 
 A **data type** tells Power Query what kind of value a column contains and how to process it.
@@ -136,8 +134,8 @@ It tells Power Query which regional rules to use when interpreting values.
 - `"26/09/2026"` + English (Australia) → 26 September 2026
 
 <!-----------------------------------------------------------------------------------------><hr /> 
-A
 # $$\color{orange}{\text{What Is Power Query M?}}$$
+**A**
 
 **M** is the programming language used by **Power Query** to connect to data, clean it, and transform it before loading it into Power BI.
 
@@ -219,8 +217,8 @@ Start with **Goodly’s videos**, practise in Power Query, and keep **Microsoft�
 **Companion code:** [The Definitive Guide to Power Query (M) — GitHub Examples](https://github.com/PacktPublishing/The-Definitive-Guide-to-Power-Query-M-)
 
 <!-----------------------------------------------------------------------------------------><hr /> 
-A
 # $$\color{orange}{\text{Power Query: Replace current vs Add new step}}$$
+**A**
 
 ![04-PowerBI-ChangeColumnType.png](images/04-PowerBI-ChangeColumnType.png)
 
@@ -263,9 +261,8 @@ The existing conversion to **Decimal number** is kept, and another step converts
 **Result: Two conversion steps.**
 
 <!-----------------------------------------------------------------------------------------><hr /> 
-
 # $$\color{orange}{\text{Pivote and Upivote}}$$
-
+**A**
 
 ![06-PowerBI-UnPivote-Columns-01.png](images/06-PowerBI-UnPivote-Columns-01.png)   
 
@@ -280,7 +277,7 @@ The existing conversion to **Decimal number** is kept, and another step converts
 <!-----------------------------------------------------------------------------------------><hr /> 
 
 # $$\color{orange}{\text{Introduction to DAX}}$$
-
+**A**
 
 ![08-PowerBI-SUMX-02.png](images/08-PowerBI-SUMX-02.png)   
 
@@ -291,7 +288,7 @@ The existing conversion to **Decimal number** is kept, and another step converts
 <!-----------------------------------------------------------------------------------------><hr /> 
 
 # $$\color{orange}{\text{Hierachy in Visualization}}$$
-50:00
+**A** 50:00
 
 ![11-PowerBI-Hierachy-01.png](images/11-PowerBI-Hierachy-01.png)
 
@@ -306,7 +303,7 @@ take it out
 <!-----------------------------------------------------------------------------------------><hr /> 
 
 # $$\color{orange}{\text{Bins and List Grouping in Power BI}}$$
-
+**A**
 **Grouping** is the process of combining individual values into broader categories to simplify data analysis and visualisation. Power BI supports two grouping methods: **Bin** and **List**.
 
 ### Bin Grouping
@@ -326,7 +323,7 @@ Both methods create a new grouped field while preserving the original field.
 <!-----------------------------------------------------------------------------------------><hr /> 
 
 ## Grouping and Binning in Power BI
-
+**A**
 ![16-PowerBI-Group-bins-01.png](images/16-PowerBI-Group-bins-01.png)   
 
 **Binning** divides numeric or date/time values into equal-width intervals called **bins**.
@@ -415,7 +412,7 @@ Your data begins at `18`, so the first interval contains only the available ages
 Each interval spans the same number of years, but one interval might contain `20` people while another contains `100`.
 
 <!-----------------------------------------------------------------------------------------><hr /> 
-
+**A**
 ## List Grouping in Power BI
 
 ![13-PowerBI-Group-List-01.png](images/13-PowerBI-Group-List-01.png)   
@@ -492,7 +489,7 @@ The original `Customer` column remains available, so you can still analyse indiv
 <!-----------------------------------------------------------------------------------------><hr /> 
 
 # $$\color{orange}{\text{Conditional Formating}}$$
-
+**A**
 
 
 
@@ -500,7 +497,7 @@ The original `Customer` column remains available, so you can still analyse indiv
 
 01:29:00
 # $$\color{orange}{\text{First Title}}$$
-
+**A**
 
 
 
