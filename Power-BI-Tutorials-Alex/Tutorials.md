@@ -17,6 +17,7 @@ comment
 - [References](#colororangetextReferences)
 - [Fundemental](#colororangetextFundemental)
   - [Power BI Apps and Services](#colororangetextPower-BI-Apps-and-Services)
+  - [Splash Screen](#colororangetextSplash-Screen)
   - [Power BI Desktop Visualizations pane](#colororangetextPower-BI-Desktop-Visualizations-pane)
   - [Data Types](#colororangetextData-Types)   
 - [Power Query](#colororangetextPower-Query)
@@ -26,6 +27,7 @@ comment
   - [...........](#colororangetext........... )
   - [...........](#colororangetext........... )    
 - [Pivote and Upivote](#colororangetextPivote-and-Upivote)
+  - [Pivat Table definition](colororangetextPivat-Table-definition)
 - [Introduction to DAX](#colororangetextIntroduction-to-DAX)
 - [Hierachy in Visualization](#colororangetextHierachy-in-Visualization)
 - [Bins and List Grouping in Power BI](#colororangetextBins-and-List-Grouping-in-Power-BI)
@@ -69,6 +71,19 @@ comment
 | **Power BI Report Server** | On-premises server for hosting and managing reports within an organisation. |
 | **On-premises data gateway** | Software that securely connects Power BI Service to data stored on local networks. |
 | **Power BI Embedded** | Azure service for embedding Power BI reports into custom applications and websites. |
+
+
+<!-----------------------------------------------------------------------------------------><hr /> 
+
+# $$\color{orange}{\text{Splash Screen}}$$
+**B**
+
+💡 **Splash Screen** the Splash Screen is the window that appears when you launch the application. It provides quick access to common tasks and resources.
+
+| ![Splash Screen](images/splashScreen.png) |
+|:--:|
+| **Splash Screen** |
+
 
 <!-----------------------------------------------------------------------------------------><hr /> 
 # $$\color{orange}{\text{Power BI Desktop Visualizations pane}}$$
@@ -289,6 +304,23 @@ The existing conversion to **Decimal number** is kept, and another step converts
 ![06-PowerBI-UnPivote-Columns-01.png](images/06-PowerBI-UnPivote-Columns-01.png)   
 
 ![07-PowerBI-UnPivote-Columns-02.png](images/07-PowerBI-UnPivote-Columns-02.png)   
+
+<!-----------------------------------------------------------------------------------------><hr /> 
+# $$\color{orange}{\text{Pivat Table definition}}$$
+**B**  
+
+get online data: List of U.S. states and territories by income 
+
+
+
+A pivot table summarizes and reorganizes selected columns and rows of data.   
+Process and highlight large amounts of data, that would be time consuming to calculate by hand.   
+A few data processing functions a pivot table can perform include identifying sums, averages, ranges, and outliers.
+
+> [!NOTE]  
+>Excel Pivot Table EXPLAINED in 10 Minutes (Productivity tips included!)
+[![more](https://img.shields.io/badge/more-youtube-green.svg)](https://www.youtube.com/watch?v=UsdedFoTA68&t=115s)   
+> How to Create Pivot Table in Excel [![more](https://img.shields.io/badge/more-youtube-green.svg)](https://www.youtube.com/watch?v=PdJzy956wo4) 
 
 <!-----------------------------------------------------------------------------------------><hr /> 
 
