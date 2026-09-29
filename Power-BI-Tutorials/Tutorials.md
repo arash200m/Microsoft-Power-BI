@@ -618,14 +618,14 @@ The original `Customer` column remains available, so you can still analyse indiv
 
 
 <!-----------------------------------------------------------------------------------------><hr /> 
-01:29:00
+🕚 01:29:00 
 # $$\color{orange}{\text{Conditional Formating}}$$
 **A**
 
 
 
 <!-----------------------------------------------------------------------------------------><hr /> 
-
+🕥 56:30
 # $$\color{purple}{\text{First Title}}$$
 **B**
 
