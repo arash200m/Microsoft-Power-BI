@@ -56,6 +56,20 @@ comment
 <!-----------------------------------------------------------------------------------------><hr /> 
 # $$\color{orange}{\text{Fundemental}}$$
 
+# 📊 Data Analytics and Microsoft© Power BI
+## 📘 Module 1 – Lesson 1
+
+- 🔍 As the process of analyzing raw data to find trends and answer questions, the definition of data analytics captures its broad scope of the field. However, it includes many techniques with many different goals.
+
+- 🧩 The data analytics process has some components that can help a variety of initiatives. By combining these components, a successful data analytics initiative will provide a clear picture of where you are, where you have been and where you should go.
+
+- 📈 Data analytics is a broad field. There are four primary types of data analytics:
+  - 📋 **Descriptive analytics**
+  - 🔎 **Diagnostic analytics**
+  - 🔮 **Predictive analytics**
+  - 🧭 **Prescriptive analytics**
+
+  Each type has a different goal and a different place in the data analysis process. These are also the primary data analytics applications in business.
 <!-----------------------------------------------------------------------------------------><hr /> 
 # $$\color{orange}{\text{Power BI Apps and Services}}$$
 **B**   
