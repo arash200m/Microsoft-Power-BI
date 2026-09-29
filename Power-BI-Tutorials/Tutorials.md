@@ -111,6 +111,26 @@ comment
 | **On-premises data gateway** | Software that securely connects Power BI Service to data stored on local networks. |
 | **Power BI Embedded** | Azure service for embedding Power BI reports into custom applications and websites. |
 
+# 📊 The Landscape of Products and Services in Power BI
+
+- Power BI Desktop
+- Power BI Service (which is in the cloud ; is a cloud-based service)
+- Power BI Report Builder
+
+## 📊 Power BI Desktop and Power BI Service
+
+Power BI Desktop (application) and Power BI Service (cloud-based) are bundled together. Even the free version has a robust feature set.
+
+| Power BI Desktop | Both | Power BI Service |
+|---|---|---|
+| Many data sources | Reports | Some data sources |
+| Transforming | Visualizations | Dashboards |
+| Shaping & modeling | Security | Apps & workspaces |
+| Measures | Filters | Sharing |
+| Calculated columns | Bookmarks | Dataflow creation |
+| Python | Q&A | Paginated reports |
+| Themes | R visuals | RLS management |
+| RLS creation | | Gateway connections |
 
 <!-----------------------------------------------------------------------------------------><hr /> 
 
