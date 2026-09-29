@@ -1,7 +1,8 @@
 # Power BI | Formatting, Visualizations, Dashboards
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/I0vQ_VLZTWg/0.jpg)](https://www.youtube.com/watch?v=I0vQ_VLZTWg)
-
+<br />
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/e6QD8lP-m6E/0.jpg)](https://www.youtube.com/watch?v=e6QD8lP-m6E)
 comment
 
 [![More](https://img.shields.io/badge/more-Github-blue.svg)](https://github.com/Johnnyboycurtis/webproject   )
