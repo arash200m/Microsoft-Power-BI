@@ -15,8 +15,8 @@ comment
 
 - [Prerequisites](#colororangetextPrerequisites) 
 - [References](#colororangetextReferences)
-- [Module 1 - Fundemental](#colororangetextModule-1---Fundemental)
-  - [Lesson 2 - Power BI Apps and Services](#colororangetextLesson-2---Power-BI-Apps-and-Services)
+- [Module 1 - Fundemental](#colorpurpletextModule-1---Fundemental)
+  - [Lesson 2 - Power BI Apps and Services](#colorpurpletextLesson-2---Power-BI-Apps-and-Services)
   - [Splash Screen](#colororangetextSplash-Screen)
   - [Power BI Desktop Visualizations pane](#colororangetextPower-BI-Desktop-Visualizations-pane)
   - [Data Types](#colororangetextData-Types)   
@@ -36,7 +36,7 @@ comment
 - [...........](#colororangetext........... )
 - [...........](#colororangetext........... )
 - [...........](#colororangetext........... )
-- [...........](#colororangetext........... )      
+  - [...........](#colorpurpletext........... )      
 - [Terminology](#colororangetextTerminology)
 - [22222. The Promise-Based ,`async/await` (Pattern) in Node.js](#22222-The-Promise-Based-asyncawait-Pattern-in-Nodejs)
 
