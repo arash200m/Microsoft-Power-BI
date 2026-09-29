@@ -83,7 +83,8 @@ comment
 
 <!-----------------------------------------------------------------------------------------><hr /> 
 # $$\color{orange}{\text{Data Types}}$$
-**A**
+**A**   
+
 ![05-PowerBI-PowerQuery-DataTypes.png](images/05-PowerBI-PowerQuery-DataTypes.png)
 
 A **data type** tells Power Query what kind of value a column contains and how to process it.
