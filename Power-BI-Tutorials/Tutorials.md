@@ -17,6 +17,7 @@ comment
 - [References](#colororangetextReferences)
 - [Module 1 - Fundemental](#colorpurpletextModule-1---Fundemental)
   - [Lesson 2 - Power BI Apps and Services](#colorpurpletextLesson-2---Power-BI-Apps-and-Services)
+  - [Bring data table from website](#colorpurpletextBring-data-table-from-website)
   - [Splash Screen](#colorpurpletextSplash-Screen)
   - [Power BI Desktop Visualizations pane](#colororangetextPower-BI-Desktop-Visualizations-pane)
   - [Data Types](#colororangetextData-Types)   
@@ -143,6 +144,12 @@ comment
 ![18-PowerBI-OptionsSettings-update-detele-refreshing-01.png](images/18-PowerBI-OptionsSettings-update-detele-refreshing-01.png)
 
 ![19-PowerBI-OptionsSettings-update-detele-refreshing-02.png](images/19-PowerBI-OptionsSettings-update-detele-refreshing-02.png)
+
+<!-----------------------------------------------------------------------------------------><hr /> 
+# $$\color{purple}{\text{Bring data table from website}}$$
+**B**   
+
+
 <!-----------------------------------------------------------------------------------------><hr /> 
 
 # $$\color{purple}{\text{Splash Screen}}$$
