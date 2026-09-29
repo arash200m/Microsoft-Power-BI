@@ -54,7 +54,7 @@ comment
 1. Third ordered list
 
 <!-----------------------------------------------------------------------------------------><hr /> 
-# $$\color{orange}{\text{Module 1 - Fundemental}}$$
+# $$\color{purple}{\text{Module 1 - Fundemental}}$$
 
 # 📊 Data Analytics and Microsoft© Power BI
 ## 📘 Module 1 – Lesson 1
@@ -71,7 +71,7 @@ comment
 
   Each type has a different goal and a different place in the data analysis process. These are also the primary data analytics applications in business.
 <!-----------------------------------------------------------------------------------------><hr /> 
-# $$\color{orange}{\text{Lesson 2 - Power BI Apps and Services}}$$
+# $$\color{purple}{\text{Lesson 2 - Power BI Apps and Services}}$$
 **B**   
 
 **Power BI** is Microsoft’s platform for analysing data and sharing interactive reports.
@@ -89,7 +89,7 @@ comment
 
 <!-----------------------------------------------------------------------------------------><hr /> 
 
-# $$\color{orange}{\text{Splash Screen}}$$
+# $$\color{purple}{\text{Splash Screen}}$$
 **B**
 
 💡 **Splash Screen** the Splash Screen is the window that appears when you launch the application. It provides quick access to common tasks and resources.
@@ -549,7 +549,7 @@ The original `Customer` column remains available, so you can still analyse indiv
 
 
 <!-----------------------------------------------------------------------------------------><hr /> 
-
+01:29:00
 # $$\color{orange}{\text{Conditional Formating}}$$
 **A**
 
@@ -557,9 +557,8 @@ The original `Customer` column remains available, so you can still analyse indiv
 
 <!-----------------------------------------------------------------------------------------><hr /> 
 
-01:29:00
-# $$\color{orange}{\text{First Title}}$$
-**A**
+# $$\color{purple}{\text{First Title}}$$
+**B**
 
 
 
