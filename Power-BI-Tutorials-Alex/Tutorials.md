@@ -11,14 +11,16 @@ comment
 
 <hr>
 
-
 ### Table of Content   
 
 - [Prerequisites](#colororangetextPrerequisites) 
-- [References](#colororangetextReferences)   
-- [Power BI Desktop Visualizations pane](#colororangetextPower-BI-Desktop-Visualizations-pane)   
-- [Power Query](#colororangetextPower-Query)
+- [References](#colororangetextReferences)
+- [Fundemental](#colororangetextFundemental)
+  - [Power BI Apps and Services](#colororangetextPower-BI-Apps-and-Services)
+  - [Power BI Desktop Visualizations pane](#colororangetextPower-BI-Desktop-Visualizations-pane)
   - [Data Types](#colororangetextData-Types)   
+- [Power Query](#colororangetextPower-Query)
+  - [](url)
   - [What Is Power Query M?](#colororangetextWhat-Is-Power-Query-M)   
   - [Power Query: Replace current vs Add new step](#colororangetextPower-Query-Replace-current-vs-Add-new-step)
   - [...........](#colororangetext........... )
@@ -50,6 +52,25 @@ comment
 1. Third ordered list
 
 <!-----------------------------------------------------------------------------------------><hr /> 
+# $$\color{orange}{\text{Fundemental}}$$
+
+<!-----------------------------------------------------------------------------------------><hr /> 
+# $$\color{orange}{\text{Power BI Apps and Services}}$$
+**B**   
+
+**Power BI** is Microsoft’s platform for analysing data and sharing interactive reports.
+
+| App / Service | Main purpose |
+|---|---|
+| **Power BI Desktop** | Windows application for connecting to data, transforming it, building data models, and creating reports. |
+| **Power BI Service** | Cloud service for publishing, sharing, and collaborating on reports and dashboards. |
+| **Power BI Mobile** | Mobile app for viewing and interacting with reports and dashboards. |
+| **Power BI Report Builder** | Application for creating paginated reports designed for printing, such as invoices. |
+| **Power BI Report Server** | On-premises server for hosting and managing reports within an organisation. |
+| **On-premises data gateway** | Software that securely connects Power BI Service to data stored on local networks. |
+| **Power BI Embedded** | Azure service for embedding Power BI reports into custom applications and websites. |
+
+<!-----------------------------------------------------------------------------------------><hr /> 
 # $$\color{orange}{\text{Power BI Desktop Visualizations pane}}$$
 **A**
 
@@ -75,11 +96,6 @@ comment
 ---
 
 ![03-PowerBI-LeftPane.png](images/03-PowerBI-LeftPane.png)
-
-<!-----------------------------------------------------------------------------------------><hr /> 
-
-# $$\color{orange}{\text{Power Query}}$$
-
 
 <!-----------------------------------------------------------------------------------------><hr /> 
 # $$\color{orange}{\text{Data Types}}$$
@@ -133,6 +149,11 @@ It tells Power Query which regional rules to use when interpreting values.
 - `"1,234.56"` + English (United States) → `1234.56`
 - `"1.234,56"` + German (Germany) → `1234.56`
 - `"26/09/2026"` + English (Australia) → 26 September 2026
+
+
+<!-----------------------------------------------------------------------------------------><hr /> 
+
+# $$\color{orange}{\text{Power Query}}$$
 
 <!-----------------------------------------------------------------------------------------><hr /> 
 # $$\color{orange}{\text{What Is Power Query M?}}$$
