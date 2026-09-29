@@ -10,19 +10,38 @@ D:\Learning\Power BI\Learning\Power BI Full Course
 
 ### Table of Content   
 
-[Pivat Table](#Pivat-Table)   
-[Add title here](#add-title-here)   
-[Add title here](#add-title-here)   
-[Add title here](#add-title-here)   
-[Add title here](#add-title-here)   
-[Add title here](#add-title-here)   
-
+- [Prerequisites](#colororangetextPrerequisites) 
+- [References](#colororangetextReferences)   
+- [First Title](#First-Title)   
+- [Pivat Table](#colororangetextPivat-Table)   
+- [...........](#colororangetext........... )      
+- [Terminology](#colororangetextTerminology)
+- [22222. The Promise-Based ,`async/await` (Pattern) in Node.js](#22222-The-Promise-Based-asyncawait-Pattern-in-Nodejs)  
 
 <hr>
 
+<!-----------------------------------------------------------------------------------------><hr /> 
+
+# $$\color{orange}{\text{Prerequisites}}$$
+1. C++
+2. Java
+
+# $$\color{orange}{\text{References}}$$
+1. [fastapi.tiangolo.com](https://fastapi.tiangolo.com/)
+1. Second ordered list
+1. Third ordered list
+
+<!-----------------------------------------------------------------------------------------><hr /> 
+
+# $$\color{orange}{\text{Fundemental}}$$
+
+<!-----------------------------------------------------------------------------------------><hr /> 
+
+# $$\color{orange}{\text{Pivat Table}}$$
+
 get online data: List of U.S. states and territories by income 
 
-#### Pivat Table
+
 
 A pivot table summarizes and reorganizes selected columns and rows of data.   
 Process and highlight large amounts of data, that would be time consuming to calculate by hand.   
@@ -40,6 +59,10 @@ A few data processing functions a pivot table can perform include identifying su
 |:--:|
 | **Splash Screen** |
 
+<!-----------------------------------------------------------------------------------------><hr /> 
+
+# First Title
+# $$\color{orange}{\text{First Title}}$$
 
 
 
@@ -51,6 +74,34 @@ A few data processing functions a pivot table can perform include identifying su
 
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
 
+
+
+
+
+
+
+
+
+
+
+
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> 
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> 
+
+<hr />
+💡
+✅ 
+🎓 Academic Honesty
+📚 References
+🔗 [Node.js Official site](https://nodejs.org/)
+💻 Source Code
+
+Insert an emoji On Windows, press: `Windows key + .`
+
+### [Nginx More](./Material/Nginx.md "Nginx is a web server, reverse proxy and load balancer.")
+
+# 22222. The Promise-Based ,`async/await` (Pattern) in Node.js
+
+# $$\color{orange}{\text{Terminology}}$$
 
