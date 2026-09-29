@@ -17,7 +17,7 @@ comment
 - [References](#colororangetextReferences)
 - [Module 1 - Fundemental](#colorpurpletextModule-1---Fundemental)
   - [Lesson 2 - Power BI Apps and Services](#colorpurpletextLesson-2---Power-BI-Apps-and-Services)
-  - [Splash Screen](#colororangetextSplash-Screen)
+  - [Splash Screen](#colorpurpletextSplash-Screen)
   - [Power BI Desktop Visualizations pane](#colororangetextPower-BI-Desktop-Visualizations-pane)
   - [Data Types](#colororangetextData-Types)   
 - [Power Query](#colororangetextPower-Query)
