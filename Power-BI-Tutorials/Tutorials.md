@@ -15,8 +15,8 @@ comment
 
 - [Prerequisites](#colororangetextPrerequisites) 
 - [References](#colororangetextReferences)
-- [Fundemental](#colororangetextFundemental)
-  - [Power BI Apps and Services](#colororangetextPower-BI-Apps-and-Services)
+- [Module 1 - Fundemental](#colororangetextModule-1---Fundemental)
+  - [Lesson 2 - Power BI Apps and Services](#colororangetextLesson-2---Power-BI-Apps-and-Services)
   - [Splash Screen](#colororangetextSplash-Screen)
   - [Power BI Desktop Visualizations pane](#colororangetextPower-BI-Desktop-Visualizations-pane)
   - [Data Types](#colororangetextData-Types)   
@@ -54,7 +54,7 @@ comment
 1. Third ordered list
 
 <!-----------------------------------------------------------------------------------------><hr /> 
-# $$\color{orange}{\text{Fundemental}}$$
+# $$\color{orange}{\text{Module 1 - Fundemental}}$$
 
 # 📊 Data Analytics and Microsoft© Power BI
 ## 📘 Module 1 – Lesson 1
@@ -71,7 +71,7 @@ comment
 
   Each type has a different goal and a different place in the data analysis process. These are also the primary data analytics applications in business.
 <!-----------------------------------------------------------------------------------------><hr /> 
-# $$\color{orange}{\text{Power BI Apps and Services}}$$
+# $$\color{orange}{\text{Lesson 2 - Power BI Apps and Services}}$$
 **B**   
 
 **Power BI** is Microsoft’s platform for analysing data and sharing interactive reports.
