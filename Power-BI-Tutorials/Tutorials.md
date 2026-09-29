@@ -47,11 +47,11 @@ comment
 - [...........](#colororangetext........... )
 - [...........](#colororangetext........... )
 - [...........](#colororangetext........... )   
-- [A.Conditional Formating](#colororangetextAConditional-Formating)
-- [...........](#colororangetext........... )
-- [B.First Title](#colorpurpletextBFirst-Title)
+- [A.Conditional Formating](#colororangetextAConditional-Formating)   
+- [...........](#colororangetext........... )   
+- [B.First Title](#colorpurpletextBFirst-Title)   
 - [...........](#colorpurpletext........... )   
-- [Terminology](#colororangetextTerminology)
+- [Terminology](#colororangetextTerminology)   
 - [22222. The Promise-Based ,`async/await` (Pattern) in Node.js](#22222-The-Promise-Based-asyncawait-Pattern-in-Nodejs)
 
 
