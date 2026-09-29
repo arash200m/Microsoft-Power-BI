@@ -132,10 +132,17 @@ comment
 | Themes | R visuals | RLS management |
 | RLS creation | | Gateway connections |
 
-💡 Power BI Report builder allows for the creation of paginated reports in the Power BI Service.
+💡 **Power BI Report builder** allows for the creation of **paginated reports** in the Power BI Service.
 
+💡**Terminology**: The excel workbook called `Sample Superstore` is our **data source**, once you bring the data into power BI desktop it's known as a `dataset`.
 
+<!-----------------------------------------------------------------------------------------><hr /> 
 
+- [x] Update or delete relationships when refreshing data
+
+![18-PowerBI-OptionsSettings-update-detele-refreshing-01.png](images/18-PowerBI-OptionsSettings-update-detele-refreshing-01.png)
+
+![19-PowerBI-OptionsSettings-update-detele-refreshing-02.png](images/19-PowerBI-OptionsSettings-update-detele-refreshing-02.png)
 <!-----------------------------------------------------------------------------------------><hr /> 
 
 # $$\color{purple}{\text{Splash Screen}}$$
