@@ -119,7 +119,7 @@ comment
 
 ## 📊 Power BI Desktop and Power BI Service
 
-Power BI Desktop (application) and Power BI Service (cloud-based) are bundled together. Even the free version has a robust feature set.
+💡 Power BI Desktop (application) and Power BI Service (cloud-based) are bundled together. Even the free version has a robust feature set.
 
 | Power BI Desktop | Both | Power BI Service |
 |---|---|---|
@@ -131,6 +131,10 @@ Power BI Desktop (application) and Power BI Service (cloud-based) are bundled to
 | Python | Q&A | Paginated reports |
 | Themes | R visuals | RLS management |
 | RLS creation | | Gateway connections |
+
+💡 Power BI Report builder allows for the creation of paginated reports in the Power BI Service.
+
+
 
 <!-----------------------------------------------------------------------------------------><hr /> 
 
