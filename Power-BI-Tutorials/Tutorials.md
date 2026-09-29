@@ -598,6 +598,8 @@ Insert an emoji On Windows, press: `Windows key + .`
 
 # 22222. The Promise-Based ,`async/await` (Pattern) in Node.js
 
+- chatGPT : I’ll transcribe the image into GitHub Markdown, with emojis only in the headings.
+- 
 # $$\color{orange}{\text{Terminology}}$$
 
 | Syntax      | Description | Test Text     |
