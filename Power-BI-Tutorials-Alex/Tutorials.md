@@ -80,7 +80,7 @@ comment
 
 💡 **Splash Screen** the Splash Screen is the window that appears when you launch the application. It provides quick access to common tasks and resources.
 
-| ![Splash Screen](images/splashScreen.png) |
+| ![Splash Screen](images/17-PowerBI-splashScreen.png) |
 |:--:|
 | **Splash Screen** |
 
