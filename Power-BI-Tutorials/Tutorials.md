@@ -71,7 +71,7 @@ comment
 
   Each type has a different goal and a different place in the data analysis process. These are also the primary data analytics applications in business.
 
-Data Analysts provide real-time insights across an organization.
+- Data Analysts provide real-time insights across an organization.
 
 ## 🔗 Connect, prepare and model
 
@@ -84,6 +84,17 @@ Data Analysts provide real-time insights across an organization.
 ## 📤 Publish and share
 
 - Publish dashboards and share insights to drive informed action throughout your organization.
+
+## 🔑 Features vary based on licensing
+
+| License Type | Capabilities | Additional capabilities when workspace is in a Premium Capacity |
+|---|---|---|
+| Power BI (free) | Access to content in My Workspace | Consume content shared with them |
+| Power BI Pro | Publish content to other workspaces, share dashboards, subscribe to dashboards and reports, share with users who have a Pro license | Distribute content to users who have free licenses. |
+| Power BI Premium Per User | Same as Pro. Can also share with users who have a Premium Per User license | Distribute content to users who have free and Pro licenses. |
+| Power BI Premium Per Capacity | Same as Premium Per User. | |
+
+
 <!-----------------------------------------------------------------------------------------><hr /> 
 # $$\color{purple}{\text{Lesson 2 - Power BI Apps and Services}}$$
 **B**   
