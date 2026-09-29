@@ -37,10 +37,12 @@ comment
 - [...........](#colororangetext........... )
 - [...........](#colororangetext........... )
 - [...........](#colororangetext........... )
-  - [...........](#colorpurpletext........... )      
+- [A.Conditional Formating](#colororangetextA.Conditional-Formating)
+- [B.First Title](#colorpurpletextB.First-Title)
+- [...........](#colororangetext........... )
+- [...........](#colorpurpletext........... )   
 - [Terminology](#colororangetextTerminology)
 - [22222. The Promise-Based ,`async/await` (Pattern) in Node.js](#22222-The-Promise-Based-asyncawait-Pattern-in-Nodejs)
-
 
 
 <!-----------------------------------------------------------------------------------------><hr /> 
@@ -619,14 +621,14 @@ The original `Customer` column remains available, so you can still analyse indiv
 
 <!-----------------------------------------------------------------------------------------><hr /> 
 🕚 01:29:00 
-# $$\color{orange}{\text{Conditional Formating}}$$
+# $$\color{orange}{\text{A.Conditional Formating}}$$
 **A**
 
 
 
 <!-----------------------------------------------------------------------------------------><hr /> 
 🕥 56:30
-# $$\color{purple}{\text{First Title}}$$
+# $$\color{purple}{\text{B.First Title}}$$
 **B**
 
 
