@@ -50,9 +50,9 @@ comment
 1. Third ordered list
 
 <!-----------------------------------------------------------------------------------------><hr /> 
-
-# $$\color{orange}{\text{Power BI Desktop Visualizations pane}}$$
 A
+# $$\color{orange}{\text{Power BI Desktop Visualizations pane}}$$
+
 
 ![01-PowerBI-Visualization-pane.png](images/01-PowerBI-Visualization-pane.png)
 
@@ -83,7 +83,7 @@ A
 
 
 <!-----------------------------------------------------------------------------------------><hr /> 
-
+A
 # $$\color{orange}{\text{Data Types}}$$
 
 ![05-PowerBI-PowerQuery-DataTypes.png](images/05-PowerBI-PowerQuery-DataTypes.png)
@@ -136,7 +136,7 @@ It tells Power Query which regional rules to use when interpreting values.
 - `"26/09/2026"` + English (Australia) → 26 September 2026
 
 <!-----------------------------------------------------------------------------------------><hr /> 
-
+A
 # $$\color{orange}{\text{What Is Power Query M?}}$$
 
 **M** is the programming language used by **Power Query** to connect to data, clean it, and transform it before loading it into Power BI.
@@ -219,7 +219,7 @@ Start with **Goodly’s videos**, practise in Power Query, and keep **Microsoft�
 **Companion code:** [The Definitive Guide to Power Query (M) — GitHub Examples](https://github.com/PacktPublishing/The-Definitive-Guide-to-Power-Query-M-)
 
 <!-----------------------------------------------------------------------------------------><hr /> 
-
+A
 # $$\color{orange}{\text{Power Query: Replace current vs Add new step}}$$
 
 ![04-PowerBI-ChangeColumnType.png](images/04-PowerBI-ChangeColumnType.png)
