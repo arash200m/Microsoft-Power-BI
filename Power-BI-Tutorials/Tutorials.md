@@ -70,6 +70,20 @@ comment
   - 🧭 **Prescriptive analytics**
 
   Each type has a different goal and a different place in the data analysis process. These are also the primary data analytics applications in business.
+
+Data Analysts provide real-time insights across an organization.
+
+## 🔗 Connect, prepare and model
+
+- Connect to and transform data with advanced data preparation capabilities.
+
+## 📊 Visualize
+
+- Create interactive data visualizations and uncover important insights.
+
+## 📤 Publish and share
+
+- Publish dashboards and share insights to drive informed action throughout your organization.
 <!-----------------------------------------------------------------------------------------><hr /> 
 # $$\color{purple}{\text{Lesson 2 - Power BI Apps and Services}}$$
 **B**   
