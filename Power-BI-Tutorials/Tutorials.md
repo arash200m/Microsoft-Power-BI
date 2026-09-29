@@ -147,8 +147,12 @@ comment
 
 <!-----------------------------------------------------------------------------------------><hr /> 
 # $$\color{purple}{\text{Bring data table from website}}$$
-**B**   
+**B**  
 
+[List of U.S. states and territories by income](https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_income)
+[Median Household Income By State 2021 (worldpopulationreview.com)](https://worldpopulationreview.com/state-rankings/median-household-income-by-state)
+[Pricing & Product Comparison | Microsoft Power BI](https://powerbi.microsoft.com/en-us/pricing/)
+[Row-level security (RLS) with Power BI - Power BI | Microsoft Docs](https://docs.microsoft.com/en-us/power-bi/admin/service-admin-rls#validate-the-roles-within-power-bi-desktop)
 
 <!-----------------------------------------------------------------------------------------><hr /> 
 
