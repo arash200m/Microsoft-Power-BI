@@ -1,9 +1,9 @@
 # Power BI Tutorial
 
-# Power BI | Formatting, Visualizations, Dashboards
+# Power BI | Formatting, Visualizations, Dashboards : A
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/I0vQ_VLZTWg/0.jpg)](https://www.youtube.com/watch?v=I0vQ_VLZTWg)
 <br />
-# Power BI Full Course
+# Power BI Full Course - Learn Skills Daily :B
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/e6QD8lP-m6E/0.jpg)](https://www.youtube.com/watch?v=e6QD8lP-m6E)
 comment
 
@@ -52,6 +52,7 @@ comment
 <!-----------------------------------------------------------------------------------------><hr /> 
 
 # $$\color{orange}{\text{Power BI Desktop Visualizations pane}}$$
+A
 
 ![01-PowerBI-Visualization-pane.png](images/01-PowerBI-Visualization-pane.png)
 
