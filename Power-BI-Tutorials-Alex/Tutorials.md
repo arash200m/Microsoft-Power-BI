@@ -219,7 +219,7 @@ Start with **Goodlyâ€™s videos**, practise in Power Query, and keep **Microsoftâ
 
 <!-----------------------------------------------------------------------------------------><hr /> 
 # $$\color{orange}{\text{Power Query: Replace current vs Add new step}}$$
-**A**
+**A**   
 
 ![04-PowerBI-ChangeColumnType.png](images/04-PowerBI-ChangeColumnType.png)
 
@@ -263,17 +263,11 @@ The existing conversion to **Decimal number** is kept, and another step converts
 
 <!-----------------------------------------------------------------------------------------><hr /> 
 # $$\color{orange}{\text{Pivote and Upivote}}$$
-**A**
+**A**   
 
 ![06-PowerBI-UnPivote-Columns-01.png](images/06-PowerBI-UnPivote-Columns-01.png)   
 
-
 ![07-PowerBI-UnPivote-Columns-02.png](images/07-PowerBI-UnPivote-Columns-02.png)   
-
-
-
-
-
 
 <!-----------------------------------------------------------------------------------------><hr /> 
 
@@ -289,7 +283,7 @@ The existing conversion to **Decimal number** is kept, and another step converts
 <!-----------------------------------------------------------------------------------------><hr /> 
 
 # $$\color{orange}{\text{Hierachy in Visualization}}$$
-**A** 50:00
+**A** 50:00   
 
 ![11-PowerBI-Hierachy-01.png](images/11-PowerBI-Hierachy-01.png)
 
@@ -413,9 +407,9 @@ Your data begins at `18`, so the first interval contains only the available ages
 Each interval spans the same number of years, but one interval might contain `20` people while another contains `100`.
 
 <!-----------------------------------------------------------------------------------------><hr /> 
-**A**
 ## List Grouping in Power BI
-
+**A**
+    
 ![13-PowerBI-Group-List-01.png](images/13-PowerBI-Group-List-01.png)   
 
 ![14-PowerBI-Group-List-02.png](images/14-PowerBI-Group-List-02.png)   
