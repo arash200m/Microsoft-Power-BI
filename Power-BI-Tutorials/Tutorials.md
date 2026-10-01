@@ -21,7 +21,7 @@ comment
   - [Splash Screen](#colorpurpletextSplash-Screen)
   - [Power BI Desktop Visualizations pane](#colororangetextPower-BI-Desktop-Visualizations-pane)
   - [Data Types](#colororangetextData-Types)
-  - [🏷️Power BI Data Categories](#colorpurpletext🏷️Power-BI-Data-Categories)
+  - [🏷️Power BI Data Categories](#colorpurpletextPower-BI-Data-Categories)
 - [Power Query](#colororangetextPower-Query)
   - [](url)
   - [What Is Power Query M?](#colororangetextWhat-Is-Power-Query-M)   
