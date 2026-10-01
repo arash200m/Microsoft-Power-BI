@@ -261,6 +261,7 @@ It tells Power Query which regional rules to use when interpreting values.
 <!-----------------------------------------------------------------------------------------><hr /> 
 # $$\color{purple}{\text{Power BI Data Categories}}$$
 **B**
+google : imf world economic outlook database
 
 ![23-PowerBI-Category-01](images/23-PowerBI-Category-01.png)
 
