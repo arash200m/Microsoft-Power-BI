@@ -262,6 +262,8 @@ It tells Power Query which regional rules to use when interpreting values.
 # $$\color{purple}{\text{Power BI Data Categories}}$$
 **B**
 
+[23-PowerBI-Category-01](images/23-PowerBI-Category-01.png)
+
 A **Data Category** tells Power BI what the values in a column represent. This helps Power BI interpret locations, links, images, and other specialised content.
 
 | Data Category | Description | Example |
