@@ -20,7 +20,8 @@ comment
   - [Bring data table from website](#colorpurpletextBring-data-table-from-website)
   - [Splash Screen](#colorpurpletextSplash-Screen)
   - [Power BI Desktop Visualizations pane](#colororangetextPower-BI-Desktop-Visualizations-pane)
-  - [Data Types](#colororangetextData-Types)   
+  - [Data Types](#colororangetextData-Types)
+  - [🏷️Power BI Data Categories](#colorpurpletext🏷️Power-BI-Data-Categories)
 - [Power Query](#colororangetextPower-Query)
   - [](url)
   - [What Is Power Query M?](#colororangetextWhat-Is-Power-Query-M)   
@@ -166,10 +167,7 @@ comment
 [Pricing & Product Comparison | Microsoft Power BI](https://powerbi.microsoft.com/en-us/pricing/)   
 [Row-level security (RLS) with Power BI - Power BI | Microsoft Docs](https://docs.microsoft.com/en-us/power-bi/admin/service-admin-rls#validate-the-roles-within-power-bi-desktop)   
 
-
-
 <!-----------------------------------------------------------------------------------------><hr /> 
-
 # $$\color{purple}{\text{Splash Screen}}$$
 **B**
 
@@ -260,9 +258,37 @@ It tells Power Query which regional rules to use when interpreting values.
 - `"1.234,56"` + German (Germany) → `1234.56`
 - `"26/09/2026"` + English (Australia) → 26 September 2026
 
+<!-----------------------------------------------------------------------------------------><hr /> 
+# $$\color{purple}{\text{🏷️Power BI Data Categories}}$$
+**B**
+
+A **Data Category** tells Power BI what the values in a column represent. This helps Power BI interpret locations, links, images, and other specialised content.
+
+| Data Category | Description | Example |
+|---|---|---|
+| **Uncategorized** | No specific meaning is assigned to the column. | Product names |
+| **Address** | Identifies a street address. | 10 George Street, Sydney, Australia |
+| **City** | Identifies a city name. | Wollongong |
+| **Continent** | Identifies a continent. | Asia |
+| **Country/Region** | Identifies a country or region. | Australia |
+| **County** | Identifies an administrative division called a county. | Orange County |
+| **Latitude** | Identifies a location’s north–south coordinate, from −90 to 90 degrees. | -34.4278 |
+| **Longitude** | Identifies a location’s east–west coordinate, from −180 to 180 degrees. | 150.8931 |
+| **Place** | Identifies a named location or landmark. | Sydney Opera House |
+| **Postal Code** | Identifies a postal or ZIP code. | 2500 |
+| **State or Province** | Identifies a state or province. | New South Wales |
+| **Web URL** | Identifies a web address that can be displayed as a clickable link in supported visuals. | https://www.microsoft.com |
+| **Image URL** | Identifies a link to an image that supported visuals can display. | https://example.com/photo.png |
+| **Barcode** | Identifies barcode values for barcode scanning and filtering in supported Power BI mobile apps. | 0123456789012 |
+
+### 📝 Data Category vs Data Type
+
+- **Data Type** specifies how values are stored, such as Text, Whole Number, or Decimal Number.
+- **Data Category** specifies what those values mean, such as City, Postal Code, or Web URL.
+- For example, a postcode column can have **Text** as its data type and **Postal Code** as its data category.
+- Store postal codes and barcode identifiers as **Text** to preserve leading zeros.
 
 <!-----------------------------------------------------------------------------------------><hr /> 
-
 # $$\color{orange}{\text{Power Query}}$$
 
 <!-----------------------------------------------------------------------------------------><hr /> 
