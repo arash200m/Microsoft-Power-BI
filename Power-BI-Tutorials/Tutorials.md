@@ -259,7 +259,7 @@ It tells Power Query which regional rules to use when interpreting values.
 - `"26/09/2026"` + English (Australia) → 26 September 2026
 
 <!-----------------------------------------------------------------------------------------><hr /> 
-# $$\color{purple}{\text{🏷️Power BI Data Categories}}$$
+# $$\color{purple}{\text{Power BI Data Categories}}$$
 **B**
 
 A **Data Category** tells Power BI what the values in a column represent. This helps Power BI interpret locations, links, images, and other specialised content.
